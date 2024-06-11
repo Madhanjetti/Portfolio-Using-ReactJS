@@ -1,0 +1,82 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Proficient in front-end development with expertise in HTML, CSS, JavaScript, Bootstrap and ReactJS, adept at creating intuitive and visually appealing user interfaces. Experienced in responsive web design and cross-browser compatibility, ensuring a seamless user experience across all devices. Passionate about staying updated with the latest front-end technologies and trends to deliver modern and engaging web applications"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "Specializing in back-end development with a focus on ExpressJs, NodeJs, Java, Servlets Spring Boot, and MySQL, proficient in building robust, secure, and scalable server-side applications. Skilled in designing efficient database schemas and optimizing query performance for seamless application functionality. Dedicated to ensuring the reliability and performance of back-end systems to meet business requirements."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "Experienced in UI/UX design with a focus on creating user-centric interfaces that enhance usability and overall user satisfaction. Skilled in conducting user research, creating wireframes and prototypes, and conducting usability testing to gather valuable feedback for iterative design improvements. Passionate about delivering intuitive and visually appealing designs that elevate the overall user experience."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "Proficient in Webflow development, leveraging its powerful visual development platform to create custom, responsive websites without writing code. Skilled in designing and developing websites that are not only visually stunning but also user-friendly and accessible. Committed to delivering high-quality, pixel-perfect designs that meet and exceed client expectations"
+}],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/1project.png",
+      "title": "Credit Card Fraud Detection Using Machine Learning",
+      "description": "",
+      "url": "https://github.com/Madhanjetti/Credit-Card-Fraud-Detection-Using-Machine-Learning"
+    },
+    {
+      "id": "2",
+      "src": "./img/2project.png",
+      "title": "Signin-Signup page using MERN Stack",
+      "description": "",
+      "url": "https://github.com/Madhanjetti/Signin-Signup-Fullstack"
+    },
+    {
+      "id": "3",
+      "src": "./img/3project.png",
+      "title": "Security of Cyber Physical Systems Using Machine Learning Algorthim",
+      "description": "",
+      "url": "https://github.com/Madhanjetti/Security-of-Cyber-Physical-Systems"
+    },
+    {
+      "id": "3",
+      "src": "./img/4project.png",
+      "title": "Job Posting Portal Using Java Full Stack",
+      "description": "",
+      "url": "https://github.com/Madhanjetti/FullstackspringBootMongoDB-Project"
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+     
+      "description": "Education",
+      "author_name": "B.Tech in Computer Science-Cyber Security",
+      "author_designation": "CMR Engineering College"
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "./img/avatar-image-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kristin Watson",
+      "author_designation": "Louis Vuitton"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/avatar-image-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "author_name": "Kathryn Murphy",
+      "author_designation": "McDonald's"
+    }
+  ]
+}
