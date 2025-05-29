@@ -18,7 +18,7 @@ export default function HeroSection() {
         <button className="btn btn-primary">Get In Touch</button>
       </div>
       <div className="hero--section--img">
-        <img src="./img/1profile.png" alt="Hero Section" style={{ width: '500px', height: '500px', float: 'left', // Align the image to the left
+        <img src="./img/PP1.png" alt="Hero Section" style={{ width: '500px', height: '500px', float: 'left', // Align the image to the left
          marginRight: '10px'  }}/>
       </div>
     </section>
